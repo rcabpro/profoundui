@@ -1,11 +1,11 @@
-This is the README file for the Profound UI runtime examples.
+# This is the README file for the Profound UI runtime examples.
 
-Table of Contents:
--- Introduction
--- Sample Applications
--- Implementations
--- Directory Structure
--- Compiling Objects from Source Members
+## Table of Contents:
+- Introduction
+- Sample Applications
+- Implementations
+- Directory Structure
+- Compiling Objects from Source Members
 
 
 INTRODUCTION
