@@ -1,11 +1,11 @@
 # This is the README file for the Profound UI runtime examples.
 
 ## Table of Contents:
-- [Introduction](#INTRODUCTION)
-- [Sample Applications](#SAMPLE-APPLICATIONS)
-- [Implementations](#IMPLEMENTATIONS)
-- [Directory Structure](#DIRECTORY-STRUCTURE)
-- [Compiling Objects from Source Members](#COMPILING-OBJECTS-FROM-SOURCE-MEMBERS)
+- [Introduction](#introduction)
+- [Sample Applications](#sample-applications)
+- [Implementations](#implementations)
+- [Directory Structure](#directory-structure)
+- [Compiling Objects from Source Members](#compiling-objects-from-source-members)
 
 
 ## INTRODUCTION
