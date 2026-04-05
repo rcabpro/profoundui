@@ -48,6 +48,11 @@ Then, copy the .swf and .js files from Fusion Charts into the new "charts" subdi
 ----------
 We have included a series of sample programs in the "examples" subdirectory to illustrate how to use this project.  Please see the README file in that directory for more information.
 
+- README File: https://rcabpro.github.io/profoundui/examples/README.md
+- Hello World: https://rcabpro.github.io/profoundui/examples/hello%20world/js/helloworld.html
+- Customer Inquiry: https://rcabpro.github.io/profoundui/examples/customer%20inquiry/js/custinq.html
+- Product Listing: https://rcabpro.github.io/profoundui/examples/product%20listing/js/prodlist.html
+
 ## CONTACT PROFOUND LOGIC
 ----------------------
 To contact us:
