@@ -17,11 +17,11 @@ The examples directory includes 3 sample applications, each demonstrated using 5
 
 The sample applications include:
 
-- Hello World: a basic application that demonstrates how to create and display a Profound UI screen
+- [Hello World](hello%20world/js/helloworld.html): a basic application that demonstrates how to create and display a Profound UI screen
 
-- Customer Inquiry: a simple application that demonstrates how to process user input and present dynamic output
+- [Customer Inquiry](customer%20inquiry/js/custinq.html): a simple application that demonstrates how to process user input and present dynamic output
 
-- Product Listing: a simple application that demonstrates how to send data to a grid
+- [Product Listing](product%20listing/js/prodlist.html): a simple application that demonstrates how to send data to a grid
 
 
 ## IMPLEMENTATIONS
