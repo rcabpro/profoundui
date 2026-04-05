@@ -1,21 +1,19 @@
 # This is the README file for the Profound UI runtime examples.
 
 ## Table of Contents:
-- Introduction
-- Sample Applications
-- Implementations
-- Directory Structure
-- Compiling Objects from Source Members
+- [Introduction](#INTRODUCTION)
+- [Sample Applications](#SAMPLE-APPLICATIONS)
+- [Implementations](#IMPLEMENTATIONS)
+- [Directory Structure](#DIRECTORY-STRUCTURE)
+- [Compiling Objects from Source Members](#COMPILING-OBJECTS-FROM-SOURCE-MEMBERS)
 
 
-INTRODUCTION
-------------
+## INTRODUCTION
 
 The examples directory includes 3 sample applications, each demonstrated using 5 alternative backend implementations, for a total of 15 examples.
 
 
-SAMPLE APPLICATIONS
--------------------
+## SAMPLE APPLICATIONS
 
 The sample applications include:
 
@@ -26,8 +24,7 @@ The sample applications include:
 - Product Listing: a simple application that demonstrates how to send data to a grid
 
 
-IMPLEMENTATIONS
----------------
+## IMPLEMENTATIONS
 
 The backend implementations include:
 
@@ -42,14 +39,12 @@ The backend implementations include:
 - RPG Open Access implementation using the Profound UI Open Access Handler.  The Profound UI Open Access Handler is a commercial module offered by Profound Logic Software.
 
 
-DIRECTORY STRUCTURE
--------------------
+## DIRECTORY STRUCTURE
 
 The examples directory includes subdirectories for each sample application.  Each sample application will include a json file for the screen definition and a set of subdirectories for each implementation.  Some sample applications use database tables.  In this case, a ddl (SQL Data Definition Language) file is provided to create the table and to populate it with sample data.
 
 
-COMPILING OBJECTS FROM SOURCE MEMBERS
--------------------------------------
+## COMPILING OBJECTS FROM SOURCE MEMBERS
 
 Some of the included code, such as the RPG and DDL statements, should be run from a source member. You can convert the stream files provided in this project to source members with the CPYFRMSTMF command.
 
